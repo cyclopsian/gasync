@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: gasync
+Upstream-Contact: Jason Francis <jason@cycles.network>
+Source: https://github.com/cyclopsian/gasync
+
+Files: README.md
+Copyright: 2020 Jason Francis <jason@cycles.network>
+License: CC0-1.0
